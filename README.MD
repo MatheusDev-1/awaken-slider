@@ -1,3 +1,3 @@
-# Slider
+# Awaken Slider
 
-Repositório criado para reunir diversos aprendizados e mostrar meus conhecimentos de CSS de sliders, através de outros mini repositórios.
+Slider criado tomando como inspiração o tutorial da CodeMinz e fazendo uma homenagem ao meu filme favorito: Inception / A Origem
